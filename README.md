@@ -31,6 +31,7 @@ This project demonstrates how to capture keyboard events in Python using the `py
 - Personal experiments.
 - Learning event handling.
 - Controlled lab environments.
+
 ❌ Not Allowed:
 - Monitoring others secretly.
 - Stealing credentials.
