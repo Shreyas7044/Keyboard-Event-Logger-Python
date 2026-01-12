@@ -39,4 +39,4 @@ This project demonstrates how to capture keyboard events in Python using the `py
 ---
 
 ## 🖼️ Screenshot
-![Application Screenshot]()
+![Application Screenshot](Keyboard-Event-Logger-Python/screenshot.png)
